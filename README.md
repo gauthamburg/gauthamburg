@@ -21,7 +21,8 @@
 ---
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauthamburg&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauthamburg&theme=github-compact)
+
 
 ---
 
