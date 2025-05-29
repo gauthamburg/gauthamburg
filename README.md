@@ -1,6 +1,7 @@
 
 # Hi there 👋, I'm Gautham Krishna J!
 > CS Student @ NIT Calicut | Lifelong Learner
+![Profile Views](https://komarev.com/ghpvc/?username=gauthamburg&color=blueviolet)
 
 ---
 
