@@ -1,6 +1,6 @@
 
 # Hi there 👋, I'm Gautham Krishna J!
-> CS Student @ NIT Calicut | Lifelong Learner
+> CS Student @ NIT Calicut
 
 ---
 
