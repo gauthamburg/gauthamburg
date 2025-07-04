@@ -118,9 +118,7 @@ Built an **operating system from scratch** as part of academic coursework, imple
 ---
 
 <div align="center">
----
 
-<img src="https://komarev.com/ghpvc/?username=gauthamburg&color=brightgreen&style=flat-square" alt="Profile views" />
 
 **Thanks for visiting! 🚀**
 
