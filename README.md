@@ -60,7 +60,7 @@ Built an **operating system from scratch** as part of academic coursework, imple
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </div>
 
-A simple yet elegant travel blog platform built with **Django**, featuring user authentication, blog post management, and responsive design for travel enthusiasts.
+
 ---
 
 ## 🛠️ **Tech Arsenal**
