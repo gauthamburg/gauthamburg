@@ -1,64 +1,132 @@
-# 👋 Hey there, I'm Gautham Krishna J!
+<div align="center">
+  
+# 👋 Hey there, I'm **Gautham Krishna J**!
 
-🎓 CS Undergrad at NIT Calicut  
-🔍 Aspiring Data Scientist | Programmer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+at+NIT+Calicut;Aspiring+Data+Scientist;Passionate+Python+Developer;Data-Driven+Problem+Solver" alt="Typing SVG" />
 
----
-
-## 🧠 About Me
-
-I'm an enthusiastic Computer Science student passionate about **data-driven problem solving**.  
-I love working on real-world projects that blend **algorithms, analysis, and creativity**.  
-Currently diving deep into **Data Science**, with Python as my primary tool.
+</div>
 
 ---
 
-## 🚀 Data Science Works
+## 🌟 About Me
 
-### 🧩 People-and-Pages-Recommendations
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-A project to recommend:
-- **People you may know** based on mutual friends  
-- **Pages you might like** based on shared interests and liked pages
+🎓 **Computer Science Student** at **NIT Calicut**  
+🔍 **Aspiring Data Scientist** with a passion for analytics  
+💻 **Python Enthusiast** building real-world solutions  
+🧠 **Problem Solver** who loves turning data into insights  
 
-It uses structured **JSON data**, and applies logic similar to what social platforms use.  
-Perfect example of **raw data processing, dictionary operations, and ranking systems** in Python.
-
-📁 Repo contains:
-- JSON files (cleaned and raw)
-- Python scripts for friend/page recommendations
-- Data cleaning and display utilities
-
-👉 [View Project on GitHub »](https://github.com/gauthamburg/People-and-Pages-Recommendations)
-
----
-## 🐍 Watch My Contributions Snake
-
-![snake gif](https://github.com/gauthamburg/gauthamburg/blob/output/github-contribution-grid-snake.svg)
-
-
-## 🛠️ Tech Stack
-
-- 💻 **Languages:** Python, C, C++
-- 📊 **Data Tools:** Pandas, NumPy, Matplotlib (learning)
-- 🔗 **Other Tools:** Git, GitHub, VS Code
+I'm passionate about **data-driven decision making** and love working on projects that blend **algorithms, analysis, and creativity**. Currently exploring the fascinating world of **Data Science** and **Machine Learning**.
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Featured Project
 
-![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthamburg&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamburg&layout=compact&theme=radical)
+### 🧩 **People-and-Pages-Recommendations**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+</div>
+
+A sophisticated recommendation system that suggests:
+- 👥 **People you may know** - Smart friend recommendations based on mutual connections
+- 📄 **Pages you might like** - Personalized content suggestions using collaborative filtering
+
+**🎯 Key Features:**
+- Advanced **collaborative filtering** algorithms
+- Efficient **JSON data processing** and manipulation
+- **Weighted recommendation scoring** system
+- **Data cleaning** and preprocessing utilities
+
+**🔧 Technologies Used:**
+- Raw **data processing** with Python dictionaries
+- **Ranking systems** and **sorting algorithms**
+- **Graph theory** concepts for social network analysis
+
+<div align="center">
+  
+[![View Project](https://img.shields.io/badge/🚀%20View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/gauthamburg/People-and-Pages-Recommendations)
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ **Tech Arsenal**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-krishna-j-474033285/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/gtkrj/)  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gauthamkrishnajkdply@gmail.com)
+<div align="center">
+
+### 💻 **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 📊 **Data Science & Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+## 📊 **GitHub Analytics**
 
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauthamburg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamburg&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauthamburg&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  
+![Snake animation](https://github.com/gauthamburg/gauthamburg/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌐 **Let's Connect!**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-krishna-j-474033285/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/gtkrj/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauthamkrishnajkdply@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 **Inspiration**
+
+> *"Data is a precious thing and will last longer than the systems themselves."*  
+> **— Tim Berners-Lee**
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=gauthamburg&color=brightgreen&style=flat-square" alt="Profile views" />
+
+**Thanks for visiting! 🚀**
+
+</div>
