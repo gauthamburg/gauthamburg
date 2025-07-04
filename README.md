@@ -103,14 +103,6 @@ Built an **operating system from scratch** as part of academic coursework, imple
 
 ---
 
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  
-![Snake animation](https://github.com/gauthamburg/gauthamburg/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
 
 ## 🌐 **Let's Connect!**
@@ -126,12 +118,6 @@ Built an **operating system from scratch** as part of academic coursework, imple
 ---
 
 <div align="center">
-  
-### 💭 **Inspiration**
-
-> *"Data is a precious thing and will last longer than the systems themselves."*  
-> **— Tim Berners-Lee**
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=gauthamburg&color=brightgreen&style=flat-square" alt="Profile views" />
