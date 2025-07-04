@@ -10,8 +10,6 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 🎓 **Computer Science Student** at **NIT Calicut**  
 🔍 **Aspiring Data Scientist** with a passion for analytics  
 💻 **Python Enthusiast** building real-world solutions  
@@ -21,7 +19,7 @@ I'm passionate about **data-driven decision making** and love working on project
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
 ### 🧩 **People-and-Pages-Recommendations**
 
@@ -39,12 +37,6 @@ A sophisticated recommendation system that suggests:
 - Advanced **collaborative filtering** algorithms
 - Efficient **JSON data processing** and manipulation
 - **Weighted recommendation scoring** system
-- **Data cleaning** and preprocessing utilities
-
-**🔧 Technologies Used:**
-- Raw **data processing** with Python dictionaries
-- **Ranking systems** and **sorting algorithms**
-- **Graph theory** concepts for social network analysis
 
 <div align="center">
   
@@ -52,6 +44,23 @@ A sophisticated recommendation system that suggests:
 
 </div>
 
+### 🖥️ **ExpOS - Operating System**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Operating_System-4A90E2?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
+</div>
+
+Built an **operating system from scratch** as part of academic coursework, implementing core OS functionalities including process management, memory management, and system calls.
+
+### 🌐 **Travel Blog Project**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</div>
+
+A simple yet elegant travel blog platform built with **Django**, featuring user authentication, blog post management, and responsive design for travel enthusiasts.
 ---
 
 ## 🛠️ **Tech Arsenal**
