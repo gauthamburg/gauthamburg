@@ -13,7 +13,7 @@ Currently diving deep into **Data Science**, with Python as my primary tool.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Data Science Works
 
 ### 🧩 People-and-Pages-Recommendations
 
@@ -32,6 +32,10 @@ Perfect example of **raw data processing, dictionary operations, and ranking sys
 👉 [View Project on GitHub »](https://github.com/gauthamburg/People-and-Pages-Recommendations)
 
 ---
+## 🐍 Watch My Contributions Snake
+
+![snake gif](https://github.com/gauthamburg/gauthamburg/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🛠️ Tech Stack
 
