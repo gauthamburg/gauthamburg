@@ -1,51 +1,60 @@
+# 👋 Hey there, I'm Gautham Krishna J!
 
-# Hi there 👋, I'm Gautham Krishna J!
-> CS Student @ NIT Calicut
-
----
-
-## 🛠️ Technologies & Tools
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=blue)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
+🎓 CS Undergrad at NIT Calicut  
+🔍 Aspiring Data Scientist | Programmer
 
 ---
 
-## 📊 GitHub Stats
-![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthamburg&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamburg&layout=compact&theme=radical)
+## 🧠 About Me
+
+I'm an enthusiastic Computer Science student passionate about **data-driven problem solving**.  
+I love working on real-world projects that blend **algorithms, analysis, and creativity**.  
+Currently diving deep into **Data Science**, with Python as my primary tool.
 
 ---
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauthamburg&theme=github-compact)
+## 🚀 What I'm Working On
 
+### 🧩 People-and-Pages-Recommendations
+
+A project to recommend:
+- **People you may know** based on mutual friends  
+- **Pages you might like** based on shared interests and liked pages
+
+It uses structured **JSON data**, and applies logic similar to what social platforms use.  
+Perfect example of **raw data processing, dictionary operations, and ranking systems** in Python.
+
+📁 Repo contains:
+- JSON files (cleaned and raw)
+- Python scripts for friend/page recommendations
+- Data cleaning and display utilities
+
+👉 [View Project on GitHub »](https://github.com/gauthamburg/People-and-Pages-Recommendations)
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 **Languages:** Python, C, C++
+- 📊 **Data Tools:** Pandas, NumPy, Matplotlib (learning)
+- 🔗 **Other Tools:** Git, GitHub, VS Code
+
+---
+
+## 📈 GitHub Stats
+
+![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthamburg&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamburg&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-krishna-j-474033285/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/gtkrj/)
-[![Mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](gauthamkrishnajkdply@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-krishna-j-474033285/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/gtkrj/)  
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gauthamkrishnajkdply@gmail.com)
 
 ---
 
+> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
 
-
-<!--
-**gauthamburg/gauthamburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
