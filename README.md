@@ -14,6 +14,7 @@
 🔍 **Aspiring Data Scientist** with a passion for analytics  
 💻 **Python Enthusiast** building real-world solutions  
 🧠 **Problem Solver** who loves turning data into insights  
+📍 **Alappuzha, Kerala**
 
 I'm passionate about **data-driven decision making** and love working on projects that blend **algorithms, analysis, and creativity**. Currently exploring the fascinating world of **Data Science** and **Machine Learning**.
 
