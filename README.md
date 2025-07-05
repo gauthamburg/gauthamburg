@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-🎓 **Computer Science Student** at **NIT Calicut**  
+🎓 **Computer Science Undergrad** at **NIT Calicut**  
 🔍 **Aspiring Data Scientist** with a passion for analytics  
 💻 **Python Enthusiast** building real-world solutions  
 🧠 **Problem Solver** who loves turning data into insights  
