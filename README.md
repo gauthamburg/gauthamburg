@@ -17,51 +17,6 @@
 
 I'm passionate about **data-driven decision making** and love working on projects that blend **algorithms, analysis, and creativity**. Currently exploring the fascinating world of **Data Science** and **Machine Learning**.
 
----
-
-## 🔥 Featured Projects
-
-### 🧩 **People-and-Pages-Recommendations**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
-</div>
-
-A sophisticated recommendation system that suggests:
-- 👥 **People you may know** - Smart friend recommendations based on mutual connections
-- 📄 **Pages you might like** - Personalized content suggestions using collaborative filtering
-
-**🎯 Key Features:**
-- Advanced **collaborative filtering** algorithms
-- Efficient **JSON data processing** and manipulation
-- **Weighted recommendation scoring** system
-
-<div align="center">
-  
-[![View Project](https://img.shields.io/badge/🚀%20View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/gauthamburg/People-and-Pages-Recommendations)
-
-</div>
-
-### 🖥️ **ExpOS - Operating System**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Operating_System-4A90E2?style=for-the-badge&logo=linux&logoColor=white" alt="OS"/>
-</div>
-
-Built an **operating system from scratch** as part of academic coursework, implementing core OS functionalities including process management, memory management, and system calls.
-
-### 🌐 **Travel Blog Project**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</div>
-
-
----
 
 ## 🛠️ **Tech Arsenal**
 
