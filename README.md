@@ -57,5 +57,5 @@ I'm passionate about **data-driven decision making** and love working on project
 ---
 
 <div align="center">
-**Thanks for visiting! 🚀**
+ Thanks for visiting! 🚀
 </div>
