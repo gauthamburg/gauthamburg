@@ -7,6 +7,7 @@
 ---
 
 ## 🌟 About Me
+
 🎓 **Computer Science Undergrad** at **NIT Calicut**  
 🔍 **Aspiring Data Scientist** with a passion for analytics  
 💻 **Python Enthusiast** building real-world solutions  
@@ -26,36 +27,45 @@ I'm passionate about **data-driven decision making** and love working on project
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
 ## 📊 **GitHub Analytics**
+
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauthamburg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamburg&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauthamburg&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
 ## 🌐 **Let's Connect!**
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-krishna-j-474033285/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/gtkrj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauthamkrishnajkdply@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
- Thanks for visiting! 🚀
+ 
+Thanks for visiting! 🚀
+
 </div>
