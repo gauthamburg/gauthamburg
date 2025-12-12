@@ -1,35 +1,41 @@
 <div align="center">
   
 # 👋 Hey there, I'm **Gautham Krishna J**!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+at+NIT+Calicut;Aspiring+Data+Scientist;Passionate+Python+Developer;Data-Driven+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+at+NIT+Calicut;Aspiring+Software+Engineer;Passionate+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🌟 About Me
 
-🎓 **Computer Science Undergrad** at **NIT Calicut**  
-🔍 **Aspiring Data Scientist** with a passion for analytics  
-💻 **Python Enthusiast** building real-world solutions  
-🧠 **Problem Solver** who loves turning data into insights  
+🎓 **Computer Science Undergrad** at **NIT Calicut** 💻 **Versatile Developer** exploring the depths of Software Engineering  
+🧠 **AI & ML Enthusiast** with a knack for deep learning frameworks  
+🚀 **Problem Solver** focused on efficient algorithms and system design  
 📍 **Alappuzha, Kerala**
 
-I'm passionate about **data-driven decision making** and love working on projects that blend **algorithms, analysis, and creativity**. Currently exploring the fascinating world of **Data Science** and **Machine Learning**.
+I am a passionate **Computer Science student** who loves bridging the gap between theory and real-world application. My interests span across **Full Stack Development**, **Machine Learning**, and **System Architecture**. I love building tools that are not just functional but also scalable and efficient.
+
+---
 
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
